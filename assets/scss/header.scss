@@ -1,0 +1,28 @@
+header{
+    padding: 0px 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(108, 108, 244);
+    h2{
+        
+        color: white;
+        
+    }
+    
+    ul{
+        
+        display: flex;
+        align-items: stretch;
+        
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        margin-left: 10px;
+    }
+    li{
+        list-style: none;
+    }
+}
